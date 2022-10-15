@@ -1,1 +1,1 @@
-My first printf code
+To generate assembly code tht is intel syntax
