@@ -1,1 +1,1 @@
-Name
+Using puts instead of printf
