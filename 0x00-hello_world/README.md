@@ -1,1 +1,1 @@
-Using puts instead of printf
+Size is not grandeur, and territory does not make a nations
