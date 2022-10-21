@@ -1,1 +1,1 @@
-To check positive or negative variable
+Assigning random numbers to n
