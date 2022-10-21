@@ -1,1 +1,1 @@
-Second
+Print remaining days
